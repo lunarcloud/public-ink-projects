@@ -1,7 +1,7 @@
 "Hello, Alice. {~What's up|How are you|What's new|For what do I owe this pleasure}?" Bob said.
  * "It's my cat[."]," she said.
    "Is she okay?"
-   "She's gone missing,"
+   "She's gone missing."
    "Oh my!"
  * "It's nothing..."[] she said.
    "Oh, okay,"
